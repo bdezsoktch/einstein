@@ -1,0 +1,2 @@
+# einstein
+Einstein feladványának megoldása
